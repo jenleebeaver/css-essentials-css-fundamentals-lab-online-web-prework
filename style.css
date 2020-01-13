@@ -34,6 +34,7 @@ p {
   float: left;
   text-align: center;
   padding: auto;
+  justify-content: space-around;
 }
 
 /*div {
