@@ -22,6 +22,7 @@ nav a {
 p {
   text-align: center;
   margin: 0 auto;
+  padding-bottom: 32px;
 }
 
 #featured-property p {
