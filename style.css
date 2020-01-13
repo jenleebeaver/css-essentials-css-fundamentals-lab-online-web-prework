@@ -31,9 +31,7 @@ p {
 
  #details {
   display: flex;
-  float: left;
   text-align: center;
-  padding: auto;
   justify-content: space-around;
   align-items: center;
 }
